@@ -1,0 +1,97 @@
+
+
+
+.top{
+background:url(../img/fundo_top.gif);
+}
+
+.menu{
+	margin-top:10%;
+	margin-left:30%;
+}
+.menu li a{
+	color:#0F0;
+}
+
+.solucao{
+	background:#0F0;
+	font:Arial, Helvetica, sans-serif;
+	padding-left:15px;/*texto dentro do bloco com 15px para esquerda*/
+}
+
+.sl_center{
+text-align:center;
+}
+.sl_margem{
+margin-right:70px;
+}
+.rodape{
+   background:url(../img/fundo_top.gif);
+   color:#fff;
+   
+   padding-top:80px;
+   text-align:center;	
+}
+
+/* ******SOBRE****** */
+
+.quem h1{
+background:#0F0;
+text-align:center;
+margin-left:170px;
+width:320px;	
+}
+
+.quem p{
+text-align:justify;
+}
+
+.quem ul li strong{
+color:#0F0;
+}
+/*********************projeto***************************************/
+.padding{
+margin-top:10%;
+margin-left:15%;	
+}
+
+
+.center{
+ padding-left:10%;	
+}
+
+
+.fundo_projeto1{
+	background-color:#D0D0D7;
+
+	}
+	
+	.fundo_projeto{
+	background-image:url(../img/teste2.jpg);
+
+	}
+	
+.text_projeto{
+	color:#fff;
+	text-align:justify;
+	}
+
+/*********************Contatos***************************************/
+.margintop{
+margin-top:13%;
+margin-left:11%;	
+}
+
+.border{
+	border-right:1px solid black;
+	}
+
+
+
+
+
+
+
+
+
+
